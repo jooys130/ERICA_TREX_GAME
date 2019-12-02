@@ -7,13 +7,24 @@
 	<body>
 		<h1>Dinosaur Game!</h1>
 		<canvas id="game" height="300px" width="900px"></canvas>
-		<p style ="text-align: right"><u>press <strong>space bar</strong> to start and <strong>click RESTART</strong>button to restart</u></p>
+		
+		<!-- explaining game rule in web page-->
+		<p style ="text-align: right"><u>press <strong>space bar</strong> to start and <strong>click RESTART</strong> button to restart</u></p>
+	
+		<!-- making RESTART button-->
 		<form><input class = "btn btn-restart"
 			type = "button" value = "RESTART"
 			style= "color:white; background:black; font-size:25px;"
 			onclick = " window.location.reload()">
 			<a href = "index.html"></a>
 			</form>
+
+		<!-- autoplaying background music -->
+		<audio autoplay controls loop>
+			<source src = "backgroundmusic.mp3" type = "audio/mpeg">
+		</audio>
+		<bgsound src = "backgroundmusic.mp3" loop = "infinite"></bgsound>
+
         <script src="js/helpers.js"></script>
         <script src="js/objects/game-object.js"></script>
         <script src="js/objects/cactus.js"></script>
