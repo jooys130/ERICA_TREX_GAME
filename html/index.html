@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>남주김 아깝조's game</title>
-		<link rel="stylesheet" href="style.css"> 
+		<link rel="stylesheet" href="../css/style.css"> 
 	</head>
 	<body>
 		<h1>Dinosaur Game!</h1>
@@ -22,16 +22,17 @@
 		<!-- autoplaying background music -->
 		<audio autoplay controls loop>
 			<source src = "backgroundmusic.mp3" type = "audio/mpeg">
+			
 		</audio>
 		<bgsound src = "backgroundmusic.mp3" loop = "infinite"></bgsound>
 
-        <script src="js/helpers.js"></script>
-        <script src="js/objects/game-object.js"></script>
-        <script src="js/objects/cactus.js"></script>
-        <script src="js/objects/dinosaur.js"></script>
-        <script src="js/objects/background.js"></script>
-        <script src="js/objects/score.js"></script>
-        <script src="js/game.js"></script>
+        <script src="../js/helpers.js"></script>
+        <script src="../js/objects/game-object.js"></script>
+        <script src="../js/objects/cactus.js"></script>
+        <script src="../js/objects/dinosaur.js"></script>
+        <script src="../js/objects/background.js"></script>
+        <script src="../js/objects/score.js"></script>
+        <script src="../js/game.js"></script>
         <script>
         	new Game({
         		el: document.getElementById("game")
