@@ -17,7 +17,8 @@
 	ScoreBoard.prototype.constructor = ScoreBoard;
 
 	ScoreBoard.prototype.draw = function(context, offset) {
-		context.fillStyle = this.colour;
+		context.fillStyle = (formatOffset(offset)%100 <= 7) ? "#FFEE00" : this.colour;
+		//the score's color is changed every unit(?) of hundred.(yelloooow coloor!)
 		context.font = "16px Courier";
 		context.textAlign = "right"; 
 		context.fillText(formatOffset(offset), this.x, this.y);
