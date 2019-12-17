@@ -1,0 +1,17 @@
+body{
+	
+	text-align : center;
+}
+
+img{
+    border : 2px solid green;
+
+	max-width: 100%;
+
+}
+
+strong{
+	
+	font-size : 30px;
+}
+
