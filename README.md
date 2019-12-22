@@ -20,5 +20,14 @@
   + Restart 버튼 만들기
   + 100점 단위로 점수 깜빡이기 
   + 게임 종료의 여부를 묻는 버튼 
-  + 게임 종료페이지
+  + 종료페이지 만들기(이미지추가)
   
+### 4. 실행
+  + 파일들 중에서 html 폴더 안의 start.html 파일을 클릭한다.
+  + start.html
+![스크린샷 2019-12-22 오후 6 05 05](https://user-images.githubusercontent.com/56930460/71319903-b1f6ac80-24e7-11ea-8062-5313e9b5a1eb.png)
+  + index.html
+![스크린샷 2019-12-22 오후 5 57 59](https://user-images.githubusercontent.com/56930460/71319913-c175f580-24e7-11ea-9adb-879d33366c94.png)
+![스크린샷 2019-12-22 오후 5 59 05](https://user-images.githubusercontent.com/56930460/71319908-b4f19d00-24e7-11ea-9042-c9be2d183a2e.png)
+  + end.html
+![스크린샷 2019-12-22 오후 6 06 14](https://user-images.githubusercontent.com/56930460/71319916-c5097c80-24e7-11ea-99de-1d34a5f3d8f7.png)
