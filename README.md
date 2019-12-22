@@ -52,6 +52,5 @@
 
 ### 4. 문서화
   + https://docs.google.com/document/d/1ZA6pWPVA7Rfp4Ct9lgu_2tufD2LbnulV4WmNQOq1Z_w/edit
-  
-### 궁금한 사항이 있으면 dbwls7ska@naver.com 으로 메일 보내주세요.
+
 
