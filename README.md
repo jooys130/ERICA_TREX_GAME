@@ -31,3 +31,6 @@
 ![스크린샷 2019-12-22 오후 5 59 05](https://user-images.githubusercontent.com/56930460/71319908-b4f19d00-24e7-11ea-9042-c9be2d183a2e.png)
   + end.html
 ![스크린샷 2019-12-22 오후 6 06 14](https://user-images.githubusercontent.com/56930460/71319916-c5097c80-24e7-11ea-99de-1d34a5f3d8f7.png)
+
+### 5. 문서화
+  + https://docs.google.com/document/d/1ZA6pWPVA7Rfp4Ct9lgu_2tufD2LbnulV4WmNQOq1Z_w/edit
