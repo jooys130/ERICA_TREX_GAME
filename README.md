@@ -17,15 +17,37 @@
   + html, css의 사용에 있어 가시적으로 확인 가능하다는 장점이있어 프로그래밍 구축에 흥미를 느낌
   + 우분투에서 다른 파일을 설치할 필요없이 html파일을 열어서 바로 확인이 가능
   
-### 3. 실행
-  + 파일들 중에서 html 폴더 안의 start.html 파일을 클릭한다.
-  + start.html
-![스크린샷 2019-12-22 오후 6 05 05](https://user-images.githubusercontent.com/56930460/71319903-b1f6ac80-24e7-11ea-8062-5313e9b5a1eb.png)
-  + index.html
-![스크린샷 2019-12-22 오후 5 57 59](https://user-images.githubusercontent.com/56930460/71319913-c175f580-24e7-11ea-9adb-879d33366c94.png)
-![스크린샷 2019-12-22 오후 5 59 05](https://user-images.githubusercontent.com/56930460/71319908-b4f19d00-24e7-11ea-9042-c9be2d183a2e.png)
-  + end.html
-![스크린샷 2019-12-22 오후 6 06 14](https://user-images.githubusercontent.com/56930460/71319916-c5097c80-24e7-11ea-99de-1d34a5f3d8f7.png)
+### 3. 설치 방법
+  + node와 npm 설치
+  + 필요한 module을 npm을 이용하여 설치
+  + node index.js로 실행
+    (Example app listening on port 3000!
+    Success DB connection 뜨는 거 확인)
+  + 인터넷 접속 후 localhost:3000 접속
+  
+  
+### 4. 실행 화면
++ 로그인 버튼 누르기
+  ![캡처](https://user-images.githubusercontent.com/56713700/71322888-25acaf80-2510-11ea-99d2-892090dc5b59.PNG)
+  
++ 정보 입력 후 회원가입하기
+  ![캡처 PNG3](https://user-images.githubusercontent.com/56713700/71322906-4543d800-2510-11ea-97b0-f754536a2a92.PNG)
+  
++ 로그인하기
+  ![캡처 PNG1](https://user-images.githubusercontent.com/56713700/71322905-4248e780-2510-11ea-978b-1c6fd931535d.PNG)
+  
++ 게임 환영 인사 및 Game start 버튼 누르기
+  ![캡처 PNG5](https://user-images.githubusercontent.com/56713700/71322908-4aa12280-2510-11ea-9c2a-339a7d377e6d.PNG)
+  
++ 게임 실행 화면<br/>
+(재시작을 원할 경우, RESTART 버튼 누르기/ 게임 종료를 원할 경우, END 버튼 누르기)
+  ![스크린샷 2019-12-22 오후 5 57 59](https://user-images.githubusercontent.com/56930460/71319913-c175f580-24e7-11ea-9adb-879d33366c94.png)
+  ![스크린샷 2019-12-22 오후 5 59 05](https://user-images.githubusercontent.com/56930460/71319908-b4f19d00-24e7-11ea-9042-c9be2d183a2e.png)
+  
++ END 버튼 누를 경우 실행화면<br/>
+(다시 게임을 시작하고 싶은 경우, Click me 누르고 다시 시작)
+  ![스크린샷 2019-12-22 오후 6 06 14](https://user-images.githubusercontent.com/56930460/71319916-c5097c80-24e7-11ea-99de-1d34a5f3d8f7.png)
+
 
 ### 4. 문서화
   + https://docs.google.com/document/d/1ZA6pWPVA7Rfp4Ct9lgu_2tufD2LbnulV4WmNQOq1Z_w/edit
