@@ -27,26 +27,27 @@
   
   
 ### 4. 실행 화면
-+ 로그인 버튼 누르기
++ 로그인 버튼 누르기<br/>
   ![캡처](https://user-images.githubusercontent.com/56713700/71322888-25acaf80-2510-11ea-99d2-892090dc5b59.PNG)
   
-+ 정보 입력 후 회원가입하기
++ 정보 입력 후 회원가입하기<br/>
   ![캡처 PNG3](https://user-images.githubusercontent.com/56713700/71322906-4543d800-2510-11ea-97b0-f754536a2a92.PNG)
   
-+ 로그인하기
++ 로그인하기<br/>
   ![캡처 PNG1](https://user-images.githubusercontent.com/56713700/71322905-4248e780-2510-11ea-978b-1c6fd931535d.PNG)
   
-+ 게임 환영 인사 및 Game start 버튼 누르기
++ 게임 환영 인사 및 Game start 버튼 누르기<br/>
   ![캡처 PNG5](https://user-images.githubusercontent.com/56713700/71322908-4aa12280-2510-11ea-9c2a-339a7d377e6d.PNG)
   
 + 게임 실행 화면<br/>
-(재시작을 원할 경우, RESTART 버튼 누르기/ 게임 종료를 원할 경우, END 버튼 누르기)
-  ![스크린샷 2019-12-22 오후 5 57 59](https://user-images.githubusercontent.com/56930460/71319913-c175f580-24e7-11ea-9adb-879d33366c94.png)
-  ![스크린샷 2019-12-22 오후 5 59 05](https://user-images.githubusercontent.com/56930460/71319908-b4f19d00-24e7-11ea-9042-c9be2d183a2e.png)
+(재시작을 원할 경우, RESTART 버튼 누르기/ 게임 종료를 원할 경우, END 버튼 누르기)<br/>
+  ![13](https://user-images.githubusercontent.com/56713700/71323142-4591a280-2513-11ea-839c-50cacc1a61d0.PNG)
+  ![12](https://user-images.githubusercontent.com/56713700/71323143-46c2cf80-2513-11ea-8f90-720c0225aedb.PNG)
+
   
 + END 버튼 누를 경우 실행화면<br/>
-(다시 게임을 시작하고 싶은 경우, Click me 누르고 다시 시작)
-  ![스크린샷 2019-12-22 오후 6 06 14](https://user-images.githubusercontent.com/56930460/71319916-c5097c80-24e7-11ea-99de-1d34a5f3d8f7.png)
+(다시 게임을 시작하고 싶은 경우, Click me 누르고 다시 시작)<br/>
+  ![14](https://user-images.githubusercontent.com/56713700/71323175-b638bf00-2513-11ea-8e5c-d8fbc868e7c9.PNG)
 
 
 ### 4. 문서화
