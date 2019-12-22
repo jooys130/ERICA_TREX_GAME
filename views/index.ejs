@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HELLO!</title>
+        <link rel="stylesheet" href="../css/start.css">
+        <style>
+            #name
+            {
+                font-size: 30px;
+                font-weight: bold;
+            }
+
+        </style>
+	</head>
+	<body>
+		<div class="yu">
+        <img src="../img/start.jpg" width="550px" height="400px"><br><br>
+        <% if(logined) { %>
+           <a id="name"><%= user_id %> 님, 어서오세요</a><br>
+           <a href ="/start"><strong>Game Start</strong></a><br>
+           
+        <% } else { %>
+            <a href="/login"><strong>Login</strong></a>
+        <% } %>
+		
+		
+	</div>
+	</body>
+</html>
