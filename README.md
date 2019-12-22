@@ -1,6 +1,6 @@
 # ERICA_TREX_GAME
 남주김아깝**조** <br/>
-2019003954 남유진 / yujin-00 <br/>
+2019003954 남유진 / yujin-00 (궁금한 사항이 있으면 dbwls7ska@naver.com 으로 메일 보내주세요.)<br/>
 2019076662 주연수 / jooys130 <br/>
 2019054420 김가령 / Winter-gr <br/>
 
@@ -52,3 +52,6 @@
 
 ### 4. 문서화
   + https://docs.google.com/document/d/1ZA6pWPVA7Rfp4Ct9lgu_2tufD2LbnulV4WmNQOq1Z_w/edit
+  
+### 궁금한 사항이 있으면 dbwls7ska@naver.com 으로 메일 보내주세요.
+
